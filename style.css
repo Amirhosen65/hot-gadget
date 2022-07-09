@@ -1,0 +1,37 @@
+body{
+    height: 4000px;
+}
+
+.nav-link{
+    font-size: 18px;
+    font-family: 'Poppins Medium';
+}
+.carousel-inner .col-md-1 img {
+    width: 100%;
+}
+p{
+    font-family: 'Poppins Light';
+}
+.carousel-inner h1{
+    font-family: 'Poppins Medium';
+}
+.smartphone{
+    margin-top: 150px;
+}
+.smartphone h3{
+    font-family: 'Poppins Medium';
+    margin-bottom: 40px;
+}
+.card{
+    padding: 30px;
+    border: none;
+    box-shadow: inset 0 0px 0px lavender, 0 0 8px lavender;
+    border-radius: 10px;
+    align-items: center;
+}
+.see-left{
+    color: #ff9d00;
+    font-family: 'Poppins Medium';
+    cursor: pointer;
+}
+
